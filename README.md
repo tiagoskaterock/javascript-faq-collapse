@@ -40,3 +40,7 @@ For any queries, reach out to me at 📧 tiagolemespalhanogmail.com
 ---
 
 Get ready for the most whimsical FAQ adventure! Watch questions vanish into rainbows and answers appear as if by magic! 🌌✨
+
+<p align="center">
+  <img src="1.gif" alt="website" />
+</p>
